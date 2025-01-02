@@ -607,7 +607,7 @@ body {
   font-weight: bold;
 }
 
-.contact .info .social a:first-of-type i {
+.contact .info .social a:first-child i {
   color: #1877f2;
 }
 
@@ -615,7 +615,7 @@ body {
   color: #833ab4;
 }
 
-.contact .info .social a:last-of-type i {
+.contact .info .social a:last-child i {
   color: #14171a;
 }
 
